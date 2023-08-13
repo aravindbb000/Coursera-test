@@ -10,7 +10,7 @@ body {background-color: #fff}
 .navbar-brand {
   padding-top: 25px;
 }
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand h1 {
   color: #557c3e;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -51,11 +51,6 @@ body {background-color: #fff}
 
 /* END HEADER */
 
-
-.chbesu{
-	background-color: #cccccc
-}
-
 .text-center{
 	padding-top: 10px;
 	font-weight: bold;
@@ -64,13 +59,6 @@ p {
 	padding: 0px 10px 10px 10px;
 }
 
-/********** Medium devices only **********/
-@media (min-width: 992px) and (max-width: 1199px) {
+.chbesu{
+	background-color: #cccccc
 }
-
-
-/********** Small devices only **********/
-@media (min-width: 768px) and (max-width: 991px){}
-
-/********** Extrasmall devices only **********/
-@media (max-width: 767px){}
