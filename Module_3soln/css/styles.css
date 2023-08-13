@@ -54,10 +54,9 @@ body {background-color: #fff}
 	padding-top: 10px;
 	font-weight: bold;
 }
-p {
-	padding: 0px 10px 10px 10px;
-}
+
 
 .chbesu{
-	background-color: #cccccc
+	background-color: #cccccc;
+	padding: 0px 10px 10px 10px;
 }
